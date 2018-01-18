@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jscodeshift": "^0.4.0"
+  },
+  "scripts": {
+    "jscodeshift": "jscodeshift"
+  }
+}
